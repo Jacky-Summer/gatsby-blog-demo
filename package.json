@@ -21,7 +21,7 @@
   },
   "devDependencies": {
     "gatsby-source-filesystem": "^2.3.12",
-    "gatsby-transformer-remark": "^2.8.17",
+    "gatsby-transformer-remark": "^5.25.1",
     "prettier": "2.0.5"
   },
   "repository": {
